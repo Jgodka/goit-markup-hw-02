@@ -64,7 +64,6 @@ body {
   font-style: normal;
 }
 .addres-contact {
-  font-family: inherit;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -82,7 +81,6 @@ body {
   background: #2e2f42;
 }
 .hero {
-  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -104,9 +102,7 @@ body {
 .modal-btn-hero:focus {
   background: #404bbf;
 }
-.section-features {
-  background: #e5e5e5;
-}
+
 .titel-features {
   font-weight: 500;
   font-size: 20px;
@@ -115,15 +111,12 @@ body {
   color: #2e2f42;
 }
 .text-features {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.section-device {
-  background: #e5e5e5;
-}
+
 .titel-device {
   font-weight: 700;
   font-size: 36px;
@@ -145,6 +138,12 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
+.people-item {
+  background: #ffffff;
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+  border-radius: 0px 0px 4px 4px;
+}
 .people-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -153,16 +152,13 @@ body {
   color: #2e2f42;
 }
 .text-people {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 /*====================PORTFOLIO=================*/
-.section-portfolio {
-  background: #e5e5e5;
-}
+
 .modal-btn {
   cursor: pointer;
 }
@@ -173,7 +169,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #4d5ae5;
+  background: #f4f4fd;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
 }
+
 .modal-btn:hover,
 .modal-btn:focus {
   background: #404bbf;
@@ -181,7 +181,6 @@ body {
 }
 
 .title-img {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -189,8 +188,6 @@ body {
   color: #2e2f42;
 }
 .text-img {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -227,7 +224,6 @@ body {
 }
 
 .text-footer {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
