@@ -18,13 +18,13 @@
   text-decoration: none;
 }
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
 }
 /*===============================Header==============================*/
 
 .top-header .logo {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -35,7 +35,7 @@ body {
   color: #4d5ae5;
 }
 .acento {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -89,7 +89,7 @@ body {
   color: #ffffff;
 }
 .modal-btn-hero {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -163,7 +163,7 @@ body {
   cursor: pointer;
 }
 .modal-btn {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -199,7 +199,7 @@ body {
   background: #2e2f42;
 }
 .footer .acento {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -211,7 +211,7 @@ body {
   color: #f4f4fd;
 }
 .logo-footer {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -224,7 +224,7 @@ body {
 }
 
 .text-footer {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #e7e9fc;
